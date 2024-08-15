@@ -1,7 +1,7 @@
 # Linear-model
-Bu proektlar Linear regressiya orqali najot ta'limda otqazilgan compettition ning proekti hisoblanadi.
+# Bu proektlar Linear regressiya orqali najot ta'limda otqazilgan compettition ning proekti hisoblanadi.
 
-Tuzilgan modelda faqat chiziqli regressiyalardan foydalanilgan
+## Tuzilgan modelda faqat chiziqli regressiyalardan foydalanilgan
 
 Qilingan ishlar:
 
