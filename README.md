@@ -1,1 +1,14 @@
 # Linear-model
+Bu proektlar Linear regressiya orqali najot ta'limda otqazilgan compettition ning proekti hisoblanadi.
+
+Tuzilgan modelda faqat chiziqli regressiyalardan foydalanilgan
+
+Qilingan ishlar:
+
+Data setdagi bor ustunlardan foydalanilinib qoshimcha ustunlar qo'shilgan.
+
+Har bir regressiya uchun polynominal features qilingan va eng yaxshi degree lari topib olingan
+
+Ridge regressiya uchun eng yaxshi parametrlar topilgan
+
+Hamma regressiyalarni yagona ansambl metodhga yani stacking regressiyaga birlashtirilgan
