@@ -3,12 +3,12 @@
 
 ## Tuzilgan modelda faqat chiziqli regressiyalardan foydalanilgan
 
-Qilingan ishlar:
+## Qilingan ishlar:
 
-Data setdagi bor ustunlardan foydalanilinib qoshimcha ustunlar qo'shilgan.
+## Data setdagi bor ustunlardan foydalanilinib qoshimcha ustunlar qo'shilgan.
 
-Har bir regressiya uchun polynominal features qilingan va eng yaxshi degree lari topib olingan
+## Har bir regressiya uchun polynominal features qilingan va eng yaxshi degree lari topib olingan
 
-Ridge regressiya uchun eng yaxshi parametrlar topilgan
+## Ridge regressiya uchun eng yaxshi parametrlar topilgan
 
-Hamma regressiyalarni yagona ansambl metodhga yani stacking regressiyaga birlashtirilgan
+## Hamma regressiyalarni yagona ansambl metodhga yani stacking regressiyaga birlashtirilgan
